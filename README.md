@@ -15,5 +15,12 @@ Clean and modular Python code
 The CSV file used in this project is found in this repo but it is also available <a href = 'https://www.kaggle.com/datasets/sonalshinde123/student-academic-performance-dataset'>here</a>.
 Thank you <a href='https://github.com/sonalshinde24'>Sonal Shinde</a> for making this dataset and sharing it!
 
---- 
+---
+
+## :green_book:Libraries Used in this Project
+pandas
+plotly.express
+streamlit
+statsmodels
+numpy
 >I'm still working on this project, so this README file can change. As soon as I finish, I will post here.
