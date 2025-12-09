@@ -4,11 +4,11 @@
 StudentGrades is a data analysis and visualization project built to explore factors influencing student academic performance.
 Using Python, Pandas, Plotly, and Streamlit, this project delivers a fully interactive dashboard that allows users to investigate attendance, scores, study habits, and performance trends.
 
-This project was created as a personal learning exercise to practice:
-Exploratory Data Analysis (EDA)
-Interactive dashboards
-Feature engineering
-Clean and modular Python code
+This project was created as a personal learning exercise to practice:<br />
+Exploratory Data Analysis (EDA)<br />
+Interactive dashboards<br />
+Feature engineering<br />
+Clean and modular Python code<br />
 
 ## :pencil2:Data Used in this project
 
@@ -18,9 +18,12 @@ Thank you <a href='https://github.com/sonalshinde24'>Sonal Shinde</a> for making
 ---
 
 ## :green_book:Libraries Used in this Project
-pandas
-plotly.express
-streamlit
-statsmodels
-numpy
+pandas<br />
+plotly.express<br />
+streamlit<br />
+statsmodels<br />
+numpy<br />
+
+## :computer:Deployed on render
+<a href ='https://studentgrades-1pwx.onrender.com' Click Here </a>
 >I'm still working on this project, so this README file can change. As soon as I finish, I will post here.
